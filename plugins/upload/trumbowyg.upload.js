@@ -52,6 +52,11 @@
                 file: 'File',
                 uploadError: 'Error'
             },
+            en: {
+                upload: 'Subir',
+                file: 'Archivo',
+                uploadError: 'Error'
+            },
             sk: {
                 upload: 'Nahrať',
                 file: 'Súbor',
