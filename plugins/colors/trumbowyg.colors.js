@@ -22,6 +22,10 @@
                 foreColor: 'Text color',
                 backColor: 'Background color'
             },
+            es: {
+                foreColor: 'Color del texto',
+                backColor: 'Color de fondo'
+            },
             fr: {
                 foreColor: 'Couleur du texte',
                 backColor: 'Couleur de fond'
